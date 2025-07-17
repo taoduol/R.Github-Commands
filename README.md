@@ -1,6 +1,6 @@
 # My Project
 
-This project template is a demonstration for the RepCo workshop. I'm making a commit.
+This project template is a demonstration for the RepCo workshop. I'm making a commit. I'm a coding queen!
 
 ## Usage
 
