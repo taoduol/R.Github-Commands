@@ -1,0 +1,8 @@
+To remove all variables, functions, objects, etc. from your R environment:
+rm(list = ls())
+
+# Clear console (RStudio only)
+cat("\014")
+
+To ensure reproducible random results:
+set.seed(123)
