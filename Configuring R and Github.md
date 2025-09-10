@@ -19,10 +19,11 @@ In RStudio:
 # D. Create a Repository in Github
 In Github:
 1. Go to Dashboard / Home and select the green 'New' near your repositories list
-2. In RStudio Terminal:
-3. enter system("git remote add origin https://github.com/yourusername/your-repo.git")
-4. system("git commit -m 'message'")
-5. system("git push")
+2. Name repository and ensure there is no README
+3. In RStudio Terminal:
+4. enter system("git remote add origin https://github.com/yourusername/your-repo.git")
+5. system("git commit -m 'message'")
+6. system("git push")
 
 # E. View and Test Configuration
 1. Navigate the Environment/History pane in the upper right corner and select the Git tab
@@ -30,3 +31,8 @@ In Github:
 3. In the upper right box of the pop-up, write a message (e.g. this is my first commit / project setup) and select Commit
 4. Click on the green upward facing arrow and 'Push' the update to the online Github repository
 5. When you edit any file in your repository locally on your computer, the files will show up in the Environment/History pane and you repeat steps 2-4.
+
+# F. Troubleshooting Problems (Anticipated)
+1. Make sure Github personal access token updated
+2. Ensure the link between Github and local repository established
+3. Use terminal to help troubleshoot syncing issues 
