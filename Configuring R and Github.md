@@ -19,9 +19,10 @@ In RStudio:
 # D. Create a Repository in Github
 In Github:
 1. Go to Dashboard / Home and select the green 'New' near your repositories list
-2. In RStudio Terminal: enter system("git remote add origin https://github.com/yourusername/your-repo.git")
-3. system("git commit -m 'message'")
-4. system("git push")
+2. In RStudio Terminal:
+3. enter system("git remote add origin https://github.com/yourusername/your-repo.git")
+4. system("git commit -m 'message'")
+5. system("git push")
 
 # E. View and Test Configuration
 1. Navigate the Environment/History pane in the upper right corner and select the Git tab
