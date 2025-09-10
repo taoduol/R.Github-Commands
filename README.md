@@ -1,12 +1,8 @@
-# My Project
+# R and Github Code Library 
 
-This project template is a demonstration for the RepCo workshop. I'm making a commit. I'm a coding queen! Yes, I'm a coding queen.
+This repository details common commands used when using R programming and Github for version control. 
 
-## Usage
-
-Click "Use this template" at the top of this page to create a new repository with the same folder structure.
-
-## Project Structure
+## Project Structure - This is an example project structure for research investigations to support reproducibility
 
 The project structure distinguishes three kinds of folders:
 - read-only (RO): not edited by either code or researcher
@@ -17,10 +13,8 @@ The project structure distinguishes three kinds of folders:
 ```
 .
 ├── .gitignore
-├── CITATION.cff
 ├── LICENSE
 ├── README.md
-├── requirements.txt
 ├── data               <- All project data, ignored by git
 │   ├── processed      <- The final, canonical data sets for modeling. (PG)
 │   ├── raw            <- The original, immutable data dump. (RO)
